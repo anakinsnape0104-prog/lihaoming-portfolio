@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="725px" height="34px" viewBox="0 0 725 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="双色上下头像在右" transform="translate(-48.000000, -301.000000)">
+            <g id="module_title_background_color" transform="translate(48.000000, 300.999658)">
+                <rect id="矩形" x="0" y="0" width="725" height="33"></rect>
+                <line x1="95" y1="32.5999988" x2="724" y2="32.4999988" id="分割线_color" stroke-opacity="0.200000003" stroke="#0D0D0D" fill-rule="nonzero"></line>
+                <polygon id="矩形_color" fill="#0D0D0D" fill-rule="nonzero" points="0 29.0003669 96 29.0003669 96 33.0003669 0 33.0003669"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
